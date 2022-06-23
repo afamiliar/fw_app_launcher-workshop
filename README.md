@@ -4,7 +4,7 @@
 
 https://docs.flywheel.io/hc/en-us/articles/360008162214-Installing-the-Flywheel-Command-Line-Interface-CLI-
 
-1.	In a web browser, go to [chop.flywheel.io](chop.flywheel.io) and login
+1.	In a web browser, go to [chop.flywheel.io](https://chop.flywheel.io/#/projects) and login
 2.	Download and open the zip file: fw-darwin_amd64.zip
 3.	Generate an API key
 4.	Open Terminal
