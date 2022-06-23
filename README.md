@@ -1,5 +1,3 @@
-# fw_app_launcher-workshop
-
 ## Instructions
 
 # Install the Flywheel CLI
